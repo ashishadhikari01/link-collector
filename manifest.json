@@ -1,0 +1,8 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Link keeper",
+    "action": {
+        "default_popup": "extension.html"
+    }
+}
