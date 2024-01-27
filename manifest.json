@@ -4,5 +4,8 @@
     "name": "Link keeper",
     "action": {
         "default_popup": "extension.html"
-    }
+    },
+    "permissions":[
+        "tabs"
+    ]
 }
